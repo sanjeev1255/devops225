@@ -3,3 +3,6 @@ The line 2 added in the central repo
 Thi sis line 3 on local branch b1
 This is line 4 on remote branch b1
 line 5 on local branch b1
+
+Line 6 on remote branch main
+
